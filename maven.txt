@@ -2,6 +2,4 @@ implenting maven project.
 and generating package by giving command
 mvn package
 demomnstrating github webhook
-added this line
-hope this works
-work this time pls
+yup yup
